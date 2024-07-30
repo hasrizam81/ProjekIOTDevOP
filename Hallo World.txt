@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+sy la master of universe
+=======
+saya tambah dari branch fixing nie
+>>>>>>> fixing
